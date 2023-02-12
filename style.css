@@ -78,3 +78,12 @@ p{
     padding-top: 4px;
 
 }
+.text-m{
+    display: flex;
+    font-size: 6px;
+    align-items: center;
+    gap: 3px;
+    margin-left: 10px;
+    color: rgba(240, 248, 255, 0.637);
+    font-weight: 100;
+}
