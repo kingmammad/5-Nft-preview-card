@@ -23,3 +23,11 @@
  background-position: center;
  border-radius: 10px;
 }
+.view{
+    opacity: 0;
+   }
+   .view:hover{
+       opacity: 1;
+      
+   }
+   
