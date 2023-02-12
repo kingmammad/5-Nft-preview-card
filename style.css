@@ -33,4 +33,12 @@
    .box-img:hover{
     background-image: linear-gradient(to right ,hsla(178, 100%, 50%, 0.185),hsla(178, 100%, 50%, 0.247)  ) ,url(images/image-equilibrium.jpg);
 }
+p{
+    font-weight: lighter;
+    font-size: 12px;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    line-height: 1.6;
+    color: rgba(240, 255, 255, 0.527);
+}
    
