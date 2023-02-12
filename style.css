@@ -12,3 +12,14 @@
     justify-content: center;
     align-items: center;
 }
+.box-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ height: 300px;
+ width: 200px;
+ background-image: url(images/image-equilibrium.jpg);
+ background-size: cover;
+ background-position: center;
+ border-radius: 10px;
+}
