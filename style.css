@@ -61,3 +61,10 @@ p{
     color: aliceblue;
     font-weight: 600;
 }
+.text-all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    
+}
