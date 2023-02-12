@@ -4,3 +4,11 @@
     box-sizing: border-box;
 
 }
+.cont{
+    max-width: 1440px;
+    background-color: #14122b;
+    height: 697px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
