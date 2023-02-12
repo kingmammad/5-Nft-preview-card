@@ -87,3 +87,11 @@ p{
     color: rgba(240, 248, 255, 0.637);
     font-weight: 100;
 }
+a{
+    text-decoration: none;
+    font-size: 11px;
+    color: #6474bd;
+}
+.mohammad{
+    border-radius: 50%;
+}
