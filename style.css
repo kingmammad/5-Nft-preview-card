@@ -55,3 +55,9 @@ p{
     gap: 14px;
     font-family: 'Outfit', sans-serif;
 }
+.h2-one{
+    font-size: 14px;
+    padding-bottom: 3px;
+    color: aliceblue;
+    font-weight: 600;
+}
