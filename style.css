@@ -110,13 +110,9 @@ a{
     align-items: center;
     gap: 5px;
 }
-.img-eth{
-    border-radius: 12px;
-    box-shadow: 0px 0px 5px #00000004;
 
-}
 
-time{
+.time{
     display: flex;
     justify-content: center;
     align-items: center;
