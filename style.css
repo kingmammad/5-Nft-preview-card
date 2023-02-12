@@ -30,4 +30,7 @@
        opacity: 1;
       
    }
+   .box-img:hover{
+    background-image: linear-gradient(to right ,hsla(178, 100%, 50%, 0.185),hsla(178, 100%, 50%, 0.247)  ) ,url(images/image-equilibrium.jpg);
+}
    
