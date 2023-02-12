@@ -68,3 +68,13 @@ p{
     width: 200px;
     
 }
+.human{
+    border-top: 1px solid #ffffff31;
+    display: flex;
+    align-items: center;
+    
+    font-size:8px;
+    height: 38px;
+    padding-top: 4px;
+
+}
